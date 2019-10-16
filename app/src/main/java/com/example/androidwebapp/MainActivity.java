@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         //its fixed let's add progressbar
-        webview.loadUrl("https://www.google.co.in/");
+        webview.loadUrl("https://amazon.in/");
 
 
         //now on back press it exist instead of back page let's fixed it
